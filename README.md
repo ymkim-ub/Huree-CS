@@ -1,6 +1,6 @@
 # Huree-CS
 # Numerical derivative
-derivate_simple.py : example file of simple derivative
+derivate_simple.py : example file of simple derivative\n
 derivate.py : example file of real derivative
 # linear regression
 linear_regression.py : example file of one variable function of regression
